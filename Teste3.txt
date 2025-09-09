@@ -1,7 +1,6 @@
-<<<<<<< HEAD
-teste de alteração arquivo 3
 
-outra linha para testar o merge
-=======
-exemplo de merge
->>>>>>> fa7e09619ce35073fa43623a4caf13b0e294eea0
+teste de alteração arquivo teste teste 3
+
+
+
+
